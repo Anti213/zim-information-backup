@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-01T09:51:23-07:00
+
+====== git and github ======
+Created Wednesday 01 July 2015
+
+Function: 
+Git is used for version control
+
+Commands:
+* git init - initializes a new Git repository
+* git config - used for configuring git
+* git help - brings up the most common 21 git commands
+* git status - checks the status of the repository
+* git add - brings new files to Git's attention
+* git commit -m "Message here." - after any sort of change this takes a 'snapshot' of the repository
+* git branch cats - lets you make changes on your own. The word after is the title
+* git merge - lets you merge changes back to the master branch
+* git push - you can push your commits to github with this command
+* git pull - this lets you have the most up to date version of the repository to work with

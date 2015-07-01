@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T15:16:08-07:00
+
+====== Master To-Do List ======
+Created Tuesday 30 June 2015
+
+* [[+Stuff for CS40]]
+* [[+Stuff for CS Self-Study]]
+* [[+Zim]]
+
+

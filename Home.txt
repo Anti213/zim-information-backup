@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T09:56:48-07:00
+
+====== Home ======
+Created Tuesday 30 June 2015
+
+First Journal Entry:
+[[:Journal:06-30-2015]]

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:35:09-07:00
+
+====== 06-30-2015 ======
+Created Tuesday 30 June 2015
+
+What was done:
+* Set up dropbox backups for zim (to be later replaced with git)
+* Set up the Acer Aspire with Elementary OS
+* Set up Chromebook with Elementary OS (to be later removed with the default chromeos)
+* Installed messenger client onto Acer Aspire
+
+To-Do: 
+[ ] Make schedule for reading textbooks (CS Self-Study Stuff)
+[ ] Make a script for terminal installations
+[ ] Organize Zim
+[ ] Guide for Zim
+[ ] Homework #2 for CS40
+[ ] Organize time blocks

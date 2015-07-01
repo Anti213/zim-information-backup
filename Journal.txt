@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-30T16:29:47-07:00
+
+====== Journal ======
+Created Tuesday 30 June 2015
+
+Format:
+* Use 'ctrl-d' to find out general date
+* Convert the general date and make it have dases instead of slashes
+* Make new subfolder
