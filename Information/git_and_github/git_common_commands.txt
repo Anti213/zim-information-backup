@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-01T10:30:56-07:00
+
+====== git common commands ======
+Created Wednesday 01 July 2015
+tags: @git 
+
+# to add all new files and commit them and then push to # the remote repository
+git commit -a -m "MY MESSAGE HERE"
+git push origin master
+
+# set git to use the credential memory cache
+git config --global credential.helper cache
+# change default password cache timeout (setting is in seconds)
+git config --global credential.helper 'cache --timeout=3600'

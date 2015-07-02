@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-01T09:58:36-07:00
+
+====== git installation commands ======
+Created Wednesday 01 July 2015
+tags: @git 
+
+#for installation
+apt-get install git
+#for putting name on
+git config --global user.name "anti621"
+#for setting up email
+git config --global user.email "anti621@gmail.com"
+echo "#zim-information-backup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Anti213/zim-information-backup.git
+git push -u origin master
