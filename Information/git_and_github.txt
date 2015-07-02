@@ -4,11 +4,13 @@ Creation-Date: 2015-07-01T09:51:23-07:00
 
 ====== git and github ======
 Created Wednesday 01 July 2015
+tags: @git 
 
 Function: 
 Git is used for version control
+Github is where the files are stored
 
-Commands:
+General Commands:
 * git init - initializes a new Git repository
 * git config - used for configuring git
 * git help - brings up the most common 21 git commands

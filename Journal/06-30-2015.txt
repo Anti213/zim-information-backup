@@ -18,3 +18,4 @@ To-Do:
 [ ] Guide for Zim
 [ ] Homework #2 for CS40
 [ ] Organize time blocks
+[ ] Figure out Git and Github
